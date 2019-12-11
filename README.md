@@ -4,7 +4,7 @@
 
 # how to use
 clone the repositories 
-git clone https://github.com/madscientist-zero/ashiap.git
+git clone https://github.com/madscientist-zero/brute.git
 # then
 
 1. cd BruteForceZip
