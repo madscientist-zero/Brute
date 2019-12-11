@@ -3,8 +3,7 @@
 <p style="color:red">The BruteForceZip is the brute forcer for zip file
 
 # how to use
-clone the repositories 
-git clone https://github.com/madscientist-zero/Brute.git
+type, git clone https://github.com/madscientist-zero/Brute.git
 # then
 
 1. cd BruteForceZip
