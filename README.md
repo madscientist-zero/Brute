@@ -6,6 +6,6 @@
 type, git clone https://github.com/madscientist-zero/Brute.git
 # then
 
-1. cd BruteForceZip
+1. cd BruteZip
 2. edit the p.txt to guess the password
 3. python BruteZip.py
