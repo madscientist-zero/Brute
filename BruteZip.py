@@ -6,7 +6,7 @@ def cls():
 cls()
 print '\033[31m'+'https://github.com/madscientist-zero'
 print ''
-print '\033[34m'+'####################################'
+print '\033[34m'+'###################################'
 print '\033[31m' + '[1] Zip Password Cracker\n'
 print '[0] Exit\n'
 
