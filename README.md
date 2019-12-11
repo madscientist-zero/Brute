@@ -1,6 +1,6 @@
 # Brute
 
-<p style="color:red">The BruteForceZip is the brute forcer for zip file
+<p style="color:red">The Brute is the brute forcer for zip file
 
 # how to use
 type, git clone https://github.com/madscientist-zero/Brute.git
